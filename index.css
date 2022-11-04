@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+}
+.header{
+    background-image: url("https://pbs.twimg.com/media/Dq3pa7SU0AAbQ4E.jpg");
+    height: 300px;
+}
+#page-title{
+    color: red;
+    text-align: center;
+    font-family: 'Homer Simpson Revised', sans-serif;
+    font-size: 70px;
+    padding-top: 50px;
+}
+.second-title{
+    color: whitesmoke;
+    text-align: center;
+}
